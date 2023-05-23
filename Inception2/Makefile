@@ -24,4 +24,4 @@ clean: down
 	sudo sed -i '/127.0.0.1 sangyeki.42.fr/d' /etc/hosts
 
 fclean: clean
-	sodu docker system prune --volumes --all --force
+	sudo docker system prune --volumes --all --force
