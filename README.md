@@ -10,9 +10,7 @@
 <br />
 
 ##  ☑️ 스택
-![docker](https://github.com/exceed96/Personal_42Inception/assets/90549959/25bdcb70-f258-4597-b8dc-405a28470ba1)
-
-
+<img width="100" src="https://github.com/exceed96/Personal_42Inception/assets/90549959/25bdcb70-f258-4597-b8dc-405a28470ba1"/>
 
 <br />
 
