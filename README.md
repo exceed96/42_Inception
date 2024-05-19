@@ -10,8 +10,8 @@
 <br />
 
 ##  ☑️ 스택
+![docker](https://github.com/exceed96/Personal_42Inception/assets/90549959/25bdcb70-f258-4597-b8dc-405a28470ba1)
 
-<img src="https://github.com/exceed96/Personal_42Libft/assets/90549959/5c7c2c98-78af-4d14-96da-dcc8a8b9270b" width="200" height="100" />
 
 
 <br />
