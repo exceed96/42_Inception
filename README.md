@@ -11,6 +11,9 @@
 
 ##  ☑️ 스택
 <img width="100" src="https://github.com/exceed96/Personal_42Inception/assets/90549959/25bdcb70-f258-4597-b8dc-405a28470ba1"/>
+<img width="100" src="https://github.com/exceed96/Personal_42Inception/assets/90549959/0f5589a1-c4b9-4935-8d79-e666529aafea"/>
+<img width="100" src="https://github.com/exceed96/Personal_42Inception/assets/90549959/6c604b5a-cc0a-452f-b973-6dd15daa3b31"/>
+
 
 <br />
 
